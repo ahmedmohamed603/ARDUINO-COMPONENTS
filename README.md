@@ -1,2 +1,2 @@
-# ARDUINO-SENSORS
+# ARDUINO-COMPONENTS
 important arduino components & sensors codes
